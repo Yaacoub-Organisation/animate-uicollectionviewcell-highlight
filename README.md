@@ -4,7 +4,7 @@ This demo project is associated with my article [Animate UICollectionViewCell hi
 
 ### Availability
 
-Xcode 13.0+ (Beta)
+Xcode 13.0+
 
 ### Frameworks
 
