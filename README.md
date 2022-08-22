@@ -1,6 +1,6 @@
 # Animate UICollectionViewCell highlight
 
-This demo project is associated with my article [Animate UICollectionViewCell highlight](https://yaacoub.github.io/articles/swift-tip/animate-uicollectionviewcell-highlight/).
+This demo project is associated with my article [Animate UICollectionViewCell highlight](https://yaacoub.github.io/articles/swift-tip/animate-uicollectionviewcell-highlight).
 
 ### Availability
 
